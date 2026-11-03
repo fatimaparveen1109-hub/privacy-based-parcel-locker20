@@ -1,0 +1,5 @@
+streamlit>=1.36,<2
+psycopg2-binary>=2.9
+passlib>=1.7.4
+qrcode[pil]>=7.4
+Pillow>=10

@@ -1,0 +1,1 @@
+Python 3.11; pip install -r requirements.txt; configure DATABASE_URL in .streamlit/secrets.toml; streamlit run app.py. See README.md.

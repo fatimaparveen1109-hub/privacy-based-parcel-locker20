@@ -1,0 +1,1 @@
+Prototype includes role portals, catalogue, orders, demo payment, QR generation, admin approvals and Supabase schema. Rider assignment, physical locker API, real payments, production RLS/security audit remain future integrations.
